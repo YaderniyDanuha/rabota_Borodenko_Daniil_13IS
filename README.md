@@ -1,4 +1,4 @@
-# rabota_Borodenko_Daniil_13IS
+<img width="413" height="129" alt="image" src="https://github.com/user-attachments/assets/f0eed478-329a-4b55-bca4-4765f0eb950d" /># rabota_Borodenko_Daniil_13IS
 
 Цели:
 1.	Решить задачи на Python – проверить результаты ввода-вывода программы с таблицей
@@ -130,9 +130,13 @@ README.md (содержимое файла)
 ## Отчёт о выполнении
 
 # Задача 1 
-Скриншот консоли данной программы (скрин: win + Shift + S, вставка скриншота в документ README.md (в режиме редактирования): ctrl + V)
-# Задача N 
-Скриншот консоли данной программы (скрин: win + Shift + S, вставка скриншота в документ README.md (в режиме редактирования): ctrl + V)
+<img width="340" height="141" alt="image" src="https://github.com/user-attachments/assets/ef012ab8-4146-4e2e-9fdb-bd31214995f6" />
+
+# Задача 2 
+<img width="413" height="129" alt="image" src="https://github.com/user-attachments/assets/24737c6e-02b6-4b70-8f19-f911093a9148" />
+
+
+
 
 **Общее время выполнения:** 90 минут  
 **Что было самым сложным:**  Выписать номера заданий
