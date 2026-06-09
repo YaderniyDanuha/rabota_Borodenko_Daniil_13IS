@@ -1,0 +1,25 @@
+
+
+'''
+2 задание
+'''
+
+
+summa = float(input("Введите сумму "))
+
+
+if summa >= 10000:
+    skidka = 20
+elif summa >= 5000:
+    skidka = 10
+elif summa >= 1000:
+    skidka = 5
+else:
+    skidka = 0
+
+
+summa_skidki = summa *(skidka / 100)
+itogovaya_summa = summa + summa_skidki
+
+print(f"К оплате: {itogovaya_summa} руб.")
+print(f"Размер скидки: {summa_skidki}")
