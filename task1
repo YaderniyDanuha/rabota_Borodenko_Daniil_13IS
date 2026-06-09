@@ -1,0 +1,12 @@
+'''
+1 задание
+'''
+
+
+d = int(input("Напишите сколько км вы проехали:  "))
+price = 150
+rasstoyanie = 12
+priceforkm = 12
+
+okonchatelniy_price = price + (rasstoyanie * priceforkm)
+print(f"Поездка на {rasstoyanie:.1f} км обойдётся вам в {okonchatelniy_price:.2f} руб.")
