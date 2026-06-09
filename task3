@@ -1,0 +1,20 @@
+
+
+'''
+3 задание
+'''
+
+
+a = int(input("Введите первое число "))
+b = int(input("Введите второе число "))
+c = int(input("Введите третье число "))
+d = int(input("Введите четвертое число "))
+
+
+if a >= b and a >= c and a >= d:
+    max_num = a
+elif b >= a and b >= c and b >= d:
+    max_num = d
+elif c >= a and c >= b and c >= d:
+    max_num = c
+else:
